@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <Config_Applied_Check_ConfigsApplied>Don't warn about missing pack config</Config_Applied_Check_ConfigsApplied>
+    <Config_Applied_Check_ConfigsApplied_Version>Version Name (Last Load: {0}):  </Config_Applied_Check_ConfigsApplied_Version>
+
+    <Config_Applied_Check_ConfigsApplied_Warning_Label>Config Warning</Config_Applied_Check_ConfigsApplied_Warning_Label>
+    <Config_Applied_Check_ConfigsApplied_Warning_Message>If you are seeing this message while trying to play along with a modpack it means you probably haven't downloaded or correctly applied the recommended configs. Please make sure you have followed the mod configs section of the pack setup instructions\n\nIf you are not playing along with a modpack and have just downloaded  pack for your own playthrough, that's great! Sorry for the inconvenience!\n\nIf you'd like to permanently disable this warning without downloading the configs for the pack simply remove the Config Applied Check mod or tick the box marked "Don't warn about missing pack config" in the Config Applied Check settings.</Config_Applied_Check_ConfigsApplied_Warning_Message>
+
+</LanguageData>
