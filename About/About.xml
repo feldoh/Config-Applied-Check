@@ -4,6 +4,7 @@
     <author>Taggerung</author>
     <supportedVersions>
         <li>1.4</li>
+        <li>1.5</li>
     </supportedVersions>
     <packageId>Taggerung.ConfigAppliedCheck</packageId>
     <description>A tiny mod to check if you've applied configs correctly, mod pack makers can encourage people to use this to have an idea of if they've updated their configs.</description>
